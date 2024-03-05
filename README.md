@@ -2,6 +2,7 @@
 
 About Dataset
 From the New York Times GITHUB source:
+
 [CSV US counties](About this file Edit https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv)
 "The New York Times is releasing a series of data files with cumulative counts of coronavirus cases in the United States, at the state and county level, over time. We are compiling this time series data from state and local governments and health departments in an attempt to provide a complete record of the ongoing outbreak.
 
